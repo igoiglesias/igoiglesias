@@ -12,6 +12,6 @@ You can find me on <a href="https://twitter.com/IgorIglesias5"><img src="https:/
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igoiglesias&show_icons=true&count_private=true&theme=chartreuse-dark&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=igoiglesias&show_icons=true&count_private=true&theme=chartreuse-dark&hide_title=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Iglesias&layout=compact&langs_count=6&hide_title=true&theme=chartreuse-dark)]()
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Iglesias&layout=compact&langs_count=6&hide_title=true&theme=chartreuse-dark)
