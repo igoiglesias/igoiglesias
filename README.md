@@ -19,6 +19,8 @@ You can find me on <a href="https://twitter.com/IgorIglesias5"><img src="https:/
 <!--START_SECTION:waka-->
 
 ```text
+Total Time: 17 hrs
+
 Python           10 hrs 52 mins  ████████████████░░░░░░░░░   63.62 %
 Vue.js           4 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   23.66 %
 PHP              1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
