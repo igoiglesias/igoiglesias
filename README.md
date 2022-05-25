@@ -17,3 +17,5 @@ You can find me on <a href="https://twitter.com/IgorIglesias5"><img src="https:/
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=igoiglesias&show_icons=true&count_private=true&theme=chartreuse-dark&hide_title=true)
 
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Iglesias&layout=compact&langs_count=6&hide_title=true&theme=chartreuse-dark)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
