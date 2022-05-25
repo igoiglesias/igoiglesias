@@ -18,4 +18,14 @@ You can find me on <a href="https://twitter.com/IgorIglesias5"><img src="https:/
 
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Iglesias&layout=compact&langs_count=6&hide_title=true&theme=chartreuse-dark)
 <!--START_SECTION:waka-->
+
+```text
+Python           10 hrs 52 mins  ████████████████░░░░░░░░░   63.62 %
+Vue.js           4 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   23.66 %
+PHP              1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+Go               30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+JavaScript       21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Other            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+```
+
 <!--END_SECTION:waka-->
