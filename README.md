@@ -19,14 +19,11 @@ You can find me on <a href="https://twitter.com/IgorIglesias5"><img src="https:/
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 June 2022 - To: 08 June 2022
+From: 02 June 2022 - To: 09 June 2022
 
-Python     17 hrs 36 mins  ████████████████████████▒   97.11 %
-Markdown   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-CSV        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-YAML       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Text       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Python     18 hrs 43 mins  ████████████████████████░   95.65 %
+Markdown   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Other      18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
