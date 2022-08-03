@@ -19,14 +19,14 @@ You can find me on <a href="https://twitter.com/IgorIglesias5"><img src="https:/
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 July 2022 - To: 29 July 2022
+From: 26 July 2022 - To: 02 August 2022
 
-Vue.js       9 hrs 31 mins   ██████████▓░░░░░░░░░░░░░░   42.96 %
-Python       9 hrs 16 mins   ██████████▒░░░░░░░░░░░░░░   41.84 %
-JavaScript   2 hrs 56 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
-Git          21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Vue.js       12 hrs 25 mins  ████████████▓░░░░░░░░░░░░   50.87 %
+Python       7 hrs 45 mins   ████████░░░░░░░░░░░░░░░░░   31.78 %
+JavaScript   2 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
+JSON         57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Git          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Text         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
