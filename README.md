@@ -19,10 +19,7 @@ You can find me on <a href="https://twitter.com/IgorIglesias5"><img src="https:/
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 October 2022 - To: 10 October 2022
-
-Vue.js   2 mins          ███████████████▓░░░░░░░░░   62.78 %
-Python   1 min           █████████▒░░░░░░░░░░░░░░░   37.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
