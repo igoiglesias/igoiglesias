@@ -19,7 +19,11 @@ You can find me on <a href="https://twitter.com/IgorIglesias5"><img src="https:/
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 26 October 2022 - To: 02 November 2022
+
+Python     2 hrs 6 mins    ████████████████████▓░░░░   82.53 %
+Markdown   26 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
