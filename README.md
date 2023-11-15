@@ -19,7 +19,7 @@ You can find me on <a href="https://twitter.com/IgorIglesias5"><img src="https:/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2023 - To: 12 November 2023
+From: 06 November 2023 - To: 13 November 2023
 
 Python       5 hrs 20 mins   █████████████████████▒░░░   85.49 %
 JavaScript   26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
