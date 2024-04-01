@@ -19,7 +19,7 @@ You can find me on <a href="https://twitter.com/IgorIglesias5"><img src="https:/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 March 2024 - To: 30 March 2024
+From: 24 March 2024 - To: 31 March 2024
 
 sh      41 mins         ██████████████████▓░░░░░░   74.68 %
 C       13 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.01 %
