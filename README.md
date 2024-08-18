@@ -19,13 +19,13 @@ You can find me on <a href="https://twitter.com/IgorIglesias5"><img src="https:/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2024 - To: 16 August 2024
+From: 10 August 2024 - To: 17 August 2024
 
-PHP             13 hrs 54 mins  ███████████████▒░░░░░░░░░   61.32 %
-Python          6 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   28.32 %
-CSS             1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
-Vue.js          27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-JavaScript      20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+PHP             16 hrs 2 mins   ██████████████████▒░░░░░░   73.74 %
+Python          4 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
+CSS             1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+JSON            8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Apache Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
