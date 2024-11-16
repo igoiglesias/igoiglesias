@@ -19,13 +19,13 @@ You can find me on <a href="https://twitter.com/IgorIglesias5"><img src="https:/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2024 - To: 14 November 2024
+From: 08 November 2024 - To: 15 November 2024
 
-HTML         3 hrs 7 mins    ██████████████░░░░░░░░░░░   56.23 %
-Python       1 hr 22 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.81 %
-JavaScript   40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
-CSS          14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-Go           7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+HTML         2 hrs 31 mins   █████████▓░░░░░░░░░░░░░░░   38.92 %
+Go           1 hr 41 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.10 %
+Python       1 hr 35 mins    ██████░░░░░░░░░░░░░░░░░░░   24.34 %
+JavaScript   40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
