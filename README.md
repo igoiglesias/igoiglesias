@@ -19,7 +19,7 @@ You can find me on <a href="https://twitter.com/IgorIglesias5"><img src="https:/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2024 - To: 16 November 2024
+From: 10 November 2024 - To: 17 November 2024
 
 Go           1 hr 41 mins    ████████░░░░░░░░░░░░░░░░░   31.90 %
 HTML         1 hr 39 mins    ███████▓░░░░░░░░░░░░░░░░░   31.21 %
