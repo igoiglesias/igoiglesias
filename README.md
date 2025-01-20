@@ -19,7 +19,7 @@ You can find me on <a href="https://twitter.com/IgorIglesias5"><img src="https:/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2025 - To: 18 January 2025
+From: 12 January 2025 - To: 19 January 2025
 
 Python     1 hr 45 mins    █████████████████▒░░░░░░░   69.92 %
 Vue.js     17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
