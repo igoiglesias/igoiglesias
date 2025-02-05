@@ -19,13 +19,10 @@ You can find me on <a href="https://twitter.com/IgorIglesias5"><img src="https:/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2025 - To: 03 February 2025
+From: 28 January 2025 - To: 04 February 2025
 
-Vue.js       1 hr 57 mins    █████████████████████▒░░░   85.71 %
-HTML         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-CSS          5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-PHP          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Vue.js   3 hrs 2 mins    █████████████████████████   99.76 %
+CSS      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
