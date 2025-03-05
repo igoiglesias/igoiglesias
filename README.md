@@ -19,13 +19,13 @@ You can find me on <a href="https://twitter.com/IgorIglesias5"><img src="https:/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 February 2025 - To: 03 March 2025
+From: 25 February 2025 - To: 04 March 2025
 
-Python       10 hrs 40 mins  ████████████████░░░░░░░░░   64.05 %
-HTML         3 hrs 28 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.81 %
-CSV          35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-Text         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-Bash         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Python       11 hrs 28 mins  ████████████████░░░░░░░░░   63.38 %
+HTML         3 hrs 28 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
+CSV          55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+Text         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+JSON         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 ```
 
 <!--END_SECTION:waka-->
