@@ -19,13 +19,12 @@ You can find me on <a href="https://twitter.com/IgorIglesias5"><img src="https:/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 July 2025 - To: 02 August 2025
+From: 27 July 2025 - To: 03 August 2025
 
-sh         2 hrs 5 mins    ████████████████░░░░░░░░░   63.73 %
-PHP        52 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.72 %
-Latte      7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-SQL        6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-Bash       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+PHP        11 mins         ███████████████░░░░░░░░░░   60.03 %
+Latte      7 mins          █████████▓░░░░░░░░░░░░░░░   39.30 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+sh         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
