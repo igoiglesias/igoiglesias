@@ -4,7 +4,7 @@
   <em>Engenheiro de software e empreendedor • Rio de Janeiro, Brasil</em>
 </p>
 <p align="center">
-  <a href="https://igoriglesias.com/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-bio.iglesias.dev.br-2C2C2C?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+  <a href="https://igoriglesias.com/"><img src="https://img.shields.io/badge/Site-igoriglesias.com-2C2C2C?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/igor-iglesias-62478428/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/IgorIglesias5"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
